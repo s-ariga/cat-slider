@@ -1,6 +1,7 @@
 <script lang="ts">
 	let currId = 0
 	let intervalms = 5000
+	// 写真のファイル名リスト
 	const images = [
 		'/images/1.jpg',
 		'/images/2.jpg',

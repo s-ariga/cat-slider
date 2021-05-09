@@ -5,6 +5,9 @@
 
 .DS_Store
 
+# 画像ファイル自体はレポジトリに入れない
+/public/images/*.jpg
+
 # VS Code用
 .vscode/
 .ionide/
