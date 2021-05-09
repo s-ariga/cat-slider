@@ -1,0 +1,10 @@
+# Seiichi Ariga <seiichi.ariga@gmail.com>
+
+/node_modules/
+/public/build/
+
+.DS_Store
+
+# VS Code用
+.vscode/
+.ionide/
